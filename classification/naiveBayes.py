@@ -13,6 +13,9 @@ import util
 import classificationMethod
 import math
 
+
+# THIS IS THE FILE EMANUEL TESFA WORKED ON
+
 class NaiveBayesClassifier(classificationMethod.ClassificationMethod):
     """
     See the project description for the specifications of the Naive Bayes classifier.

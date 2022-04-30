@@ -8,6 +8,9 @@
 # Abbeel in Spring 2013.
 # For more info, see http://inst.eecs.berkeley.edu/~cs188/pacman/pacman.html
 
+
+# THIS IS THE FILE EMANUEL TESFA WORKED ON
+
 def q2():
     
     "*** YOUR CODE HERE ***"

@@ -18,6 +18,8 @@ from queue import Empty
 import util
 PRINT = True
 
+
+# THIS IS THE FILE EMANUEL TESFA WORKED ON
 class PerceptronClassifier:
     """
     Perceptron classifier.
